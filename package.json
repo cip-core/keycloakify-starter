@@ -5,7 +5,7 @@
     "description": "A starter/demo project for keycloakify",
     "repository": {
         "type": "git",
-        "url": "git://github.com/garronej/keycloakify-starter.git"
+        "url": "git://github.com/cip-core/keycloakify-starter.git"
     },
     "scripts": {
         "start": "react-scripts start",
